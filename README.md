@@ -1,5 +1,5 @@
 # vue-shop
-使用vue和express实现的购物网站
+
 ![2.png](https://chengfengfengwang.github.io/vue-shop/1.png)
 ![2.png](https://chengfengfengwang.github.io/vue-shop/2.png)
 # [预览地址](http://59.110.236.209:8080/)
